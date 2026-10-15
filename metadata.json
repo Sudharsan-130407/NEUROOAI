@@ -1,0 +1,10 @@
+{
+  "name": "NeuroShield - Stroke Rehab & Emergency Monitor",
+  "description": "Production-grade cross-platform stroke patient rehabilitation, real-time MediaPipe EAR eye-blink emergency monitoring, AI clinical document analyzer, and caregiver CCTV surveillance system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
